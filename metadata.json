@@ -1,0 +1,5 @@
+{
+  "name": "Moodboard AI Studio",
+  "description": "An AI-powered application to design client mood boards for images and video. Generate and edit media, analyze content, and export to various layouts like Instagram grids, branding mockups, and more, all with the power of Gemini.",
+  "requestFramePermissions": []
+}
